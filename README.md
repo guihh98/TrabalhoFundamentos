@@ -1,11 +1,9 @@
 # TrabalhoFundamentos
 Repositorio destinado para hospedar o codigo e os documentos do trabalho para apresentacao
 
-# Projeto de Gerenciamento de Clientes e Funcionários
-
 ## Visão Geral
 
-Este projeto é uma aplicação em C# que gerencia dados de clientes e funcionários. Os dados são armazenados e recuperados de arquivos JSON. O projeto está estruturado em duas principais pastas: `Models` e `Services`.
+Este projeto é uma aplicação em C# que gerencia de hotelaria. Os dados são armazenados e recuperados de arquivos JSON. O projeto está estruturado em duas principais pastas: `Models` e `Services`.
 
 ## Estrutura do Projeto
 
