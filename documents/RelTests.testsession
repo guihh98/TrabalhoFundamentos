@@ -1,0 +1,15 @@
+TrabalhoFundamentos.Tests (9 tests) Failed: 1 test failed
+  TrabalhoFundamentos.Tests.Service (9 tests) Failed: 1 test failed
+    ClienteServicesTest (3 tests) Success
+      TestReGisterClient Success
+      TestSearchClient Success
+      TestUnkowClinet Success
+    EmployeeServiceTest (4 tests) Failed: One or more child tests failed: 1 test failed
+      TesteBuscarTodosFuncionarios Failed: Assert.Equal() Failure: Values differ
+      TestRegisterNewEmployee Success
+      TestSearchEmployee Success
+      TestUnkowEmployee Success
+    MenuTest (1 test) Success
+      METHOD Success
+    ReserveServiceTest (1 test) Success
+      METHOD Success
