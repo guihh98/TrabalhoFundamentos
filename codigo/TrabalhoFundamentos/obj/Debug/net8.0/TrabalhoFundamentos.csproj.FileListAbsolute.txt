@@ -1,0 +1,17 @@
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/bin/Debug/net8.0/TrabalhoFundamentos
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/bin/Debug/net8.0/TrabalhoFundamentos.deps.json
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/bin/Debug/net8.0/TrabalhoFundamentos.runtimeconfig.json
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/bin/Debug/net8.0/TrabalhoFundamentos.dll
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/bin/Debug/net8.0/TrabalhoFundamentos.pdb
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.AssemblyInfoInputs.cache
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.AssemblyInfo.cs
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.csproj.CoreCompileInputs.cache
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.dll
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/refint/TrabalhoFundamentos.dll
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.pdb
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.genruntimeconfig.cache
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/ref/TrabalhoFundamentos.dll
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/TrabalhoFundamentos.csproj.AssemblyReference.cache
+/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/Debug/net8.0/Trabalho.FBF57ADD.Up2Date

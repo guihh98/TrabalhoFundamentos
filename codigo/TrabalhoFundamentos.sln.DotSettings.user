@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=6C8DB91F_002DCCF7_002D4774_002D8887_002D4EEF1E1A38AD/@EntryIndexedValue">46F06F58-86CD-4AD8-9F6E-E123373C5BBD</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=92681007_002De666_002D490c_002D9f57_002D36650fea0498/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="METHOD" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::46F06F58-86CD-4AD8-9F6E-E123373C5BBD::net8.0::TrabalhoFundamentos.Tests.Service.MenuTest.METHOD&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::46F06F58-86CD-4AD8-9F6E-E123373C5BBD::net8.0::TrabalhoFundamentos.Tests.Service.ClienteServicesTest.TestReGisterClient&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::46F06F58-86CD-4AD8-9F6E-E123373C5BBD::net8.0::TrabalhoFundamentos.Tests.Service.ClienteServicesTest.TestSearchClient&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::46F06F58-86CD-4AD8-9F6E-E123373C5BBD::net8.0::TrabalhoFundamentos.Tests.Service.ClienteServicesTest.TestUnkowClinet&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::46F06F58-86CD-4AD8-9F6E-E123373C5BBD::net8.0::TrabalhoFundamentos.Tests.Service.EmployeeServiceTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;46F06F58-86CD-4AD8-9F6E-E123373C5BBD/d:Service/f:ReserveServiceTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

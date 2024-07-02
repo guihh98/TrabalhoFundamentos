@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos.Tests/TrabalhoFundamentos.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos.Tests/TrabalhoFundamentos.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos.Tests/TrabalhoFundamentos.Tests.csproj",
+        "projectName": "TrabalhoFundamentos.Tests",
+        "projectPath": "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos.Tests/TrabalhoFundamentos.Tests.csproj",
+        "packagesPath": "/Users/guilhermehenrique/.nuget/packages/",
+        "outputPath": "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/Users/guilhermehenrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/TrabalhoFundamentos.csproj": {
+                "projectPath": "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/TrabalhoFundamentos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2024.2.0-eap1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/TrabalhoFundamentos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/TrabalhoFundamentos.csproj",
+        "projectName": "TrabalhoFundamentos",
+        "projectPath": "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/TrabalhoFundamentos.csproj",
+        "packagesPath": "/Users/guilhermehenrique/.nuget/packages/",
+        "outputPath": "/Users/guilhermehenrique/Documents/projetos/iebt/zing/TrabalhoFundamentos/TrabalhoFundamentos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guilhermehenrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
